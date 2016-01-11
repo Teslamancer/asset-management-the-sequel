@@ -1,3 +1,11 @@
+attention zach and hunter you were looking at https://github.com/plataformatec/devise#getting-started
+
+and you were near the first edit to the application controller :)
+
+also your color pallete is: http://paletton.com/#uid=3000s0k796zkVvNeFh+en7TbEdj ;)
+
+and learning positioning with: http://learn.shayhowe.com/advanced-html-css/detailed-css-positioning/
+
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
